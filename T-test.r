@@ -23,3 +23,5 @@ alternative hypothesis: true difference in means is not equal to 0
 sample estimates:
 mean of x mean of y 
 0.5703787 0.4848853 
+
+#Groups x and y are not significally different because the P value is more than 0.05. 
